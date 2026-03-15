@@ -1,5 +1,4 @@
-def main():
-    print("Hello from wb!")
+from wb.app import main
 
 
 if __name__ == "__main__":
